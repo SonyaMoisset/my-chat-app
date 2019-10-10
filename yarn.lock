@@ -5432,9 +5432,9 @@ react-native-scripts@2.0.1:
     color "^0.11.1"
     lodash "^4.16.6"
 
-react-native-training-chat-server@1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/react-native-training-chat-server/-/react-native-training-chat-server-1.1.2.tgz#a8317a8c0b21f37d7785758aa9408722339d5978"
+react-native-training-chat-server@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-training-chat-server/-/react-native-training-chat-server-2.0.0.tgz#6ea7a65cc65a21511a33b7f86f04bd6d6d7c96a1"
   dependencies:
     firebase "^4.1.2"
 
