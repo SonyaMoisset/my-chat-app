@@ -2753,7 +2753,7 @@ expand-range@^1.8.1:
   dependencies:
     fill-range "^2.1.0"
 
-expo@^17.0.0:
+expo@17.0.0:
   version "17.0.0"
   resolved "https://registry.yarnpkg.com/expo/-/expo-17.0.0.tgz#29fb2b5e3a0b0d3b77b407025681d0e295cc1335"
   dependencies:
@@ -3796,7 +3796,7 @@ jest-environment-node@^19.0.2:
     jest-mock "^19.0.0"
     jest-util "^19.0.2"
 
-jest-expo@~1.0.1:
+jest-expo@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/jest-expo/-/jest-expo-1.0.2.tgz#38063bd74aebea045955fcf3a49956225a97062e"
   dependencies:
@@ -5406,7 +5406,7 @@ react-native-branch@2.0.0-beta.3:
   version "0.14.0"
   resolved "https://github.com/expo/react-native-maps/archive/v0.14.0.tar.gz#993c90136e9370c693b423960fcb679b1c25cad8"
 
-react-native-reversed-flat-list@^1.0.1:
+react-native-reversed-flat-list@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/react-native-reversed-flat-list/-/react-native-reversed-flat-list-1.0.2.tgz#390d2e90fa04ea08405ee91e75126d09a2cdbd35"
 
@@ -5432,7 +5432,7 @@ react-native-scripts@2.0.1:
     color "^0.11.1"
     lodash "^4.16.6"
 
-react-native-training-chat-server@^1.1.2:
+react-native-training-chat-server@1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/react-native-training-chat-server/-/react-native-training-chat-server-1.1.2.tgz#a8317a8c0b21f37d7785758aa9408722339d5978"
   dependencies:
