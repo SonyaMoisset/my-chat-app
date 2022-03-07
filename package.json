@@ -5,7 +5,7 @@
   "devDependencies": {
     "react-native-scripts": "2.0.1",
     "jest-expo": "1.0.2",
-    "react-test-renderer": "16.9.0"
+    "react-test-renderer": "16.14.0"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "expo": "17.0.0",
-    "react": "16.9.0",
+    "react": "16.14.0",
     "react-native": "0.61.1",
     "react-native-reversed-flat-list": "1.0.2",
     "react-native-training-chat-server": "1.1.2"
