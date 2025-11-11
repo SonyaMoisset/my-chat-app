@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "18.0.9",
+    "expo": "48.0.0",
     "react": "19.2.0",
     "react-native": "0.62.0",
     "react-native-reversed-flat-list": "1.0.2",
