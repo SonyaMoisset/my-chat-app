@@ -5,7 +5,7 @@
   "devDependencies": {
     "react-native-scripts": "2.0.1",
     "jest-expo": "1.0.3",
-    "react-test-renderer": "19.2.3"
+    "react-test-renderer": "19.2.8"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
